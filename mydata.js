@@ -1,4 +1,4 @@
-{
+foo({
 "hot":[
 {"title":"朝鲜最大规模阅兵",
 "text":"朝鲜最大规模阅兵 地面装备倾囊出动",
@@ -108,4 +108,4 @@
 "imgSrc":"",
 "link":"http://slide.tech.sina.com.cn/internet/slide_5_18966_32960.html#p=1"}
 ]
-}
+});
